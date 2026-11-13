@@ -16,10 +16,10 @@ ABC Bank takes about 12 days to approve a personal loan. Customers fill paper fo
 6. Estimated the benefits with KPIs
 
 ## Current process (AS-IS)
-![AS-IS process](03_as_is_flow.png)
+![AS-IS process](03_as_is_flow.drawio.png)
 
 ## Improved process (TO-BE)
-![TO-BE process](04_to_be_flow.png)
+![TO-BE process](04_to_be_flow.drawio.png)
 
 ## Key findings
 - The main problems are manual checks, retyping of data and no status tracking.
@@ -33,14 +33,15 @@ ABC Bank takes about 12 days to approve a personal loan. Customers fill paper fo
 | Customer drop-off | 35% | 15% |
 | Cost per application | Rs 2,500 | Rs 1,200 |
 | Data entry errors | 8% | 1% |
+![KPI improvement chart](08_kpi_chart.png)
 
 ## Files in this repository
 | File | What it contains |
 |---|---|
 | 01_problem_statement.docx | Why the project exists |
 | 02_stakeholders_pain_points.docx | Stakeholders, pain points, root causes |
-| 03_as_is_flow.png | Current process diagram |
-| 04_to_be_flow.png / .drawio | Improved process diagram |
+| 03_as_is_flow.drawio.png | Current process diagram |
+| 04_to_be_flow.drawio.png / .drawio | Improved process diagram |
 | 05_gap_analysis.docx | Gap analysis with MoSCoW priorities |
 | 06_user_stories.docx | User stories and acceptance criteria |
 | 07_kpi_benefits.docx | KPIs and expected benefits |
