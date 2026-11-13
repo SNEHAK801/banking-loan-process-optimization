@@ -33,6 +33,7 @@ ABC Bank takes about 12 days to approve a personal loan. Customers fill paper fo
 | Customer drop-off | 35% | 15% |
 | Cost per application | Rs 2,500 | Rs 1,200 |
 | Data entry errors | 8% | 1% |
+
 ![KPI improvement chart](08_kpi_chart.png)
 
 ## Files in this repository
